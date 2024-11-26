@@ -14,14 +14,14 @@ Eternal Duel is an action-packed 2D fighting game where two knights battle for s
 
 ## Controls
 
-### Player 1 (Knight 1):
+### Player 1:
 
 - `W`: Jump
 - `A`: Move Left
 - `D`: Move Right
 - `Space`: Attack
 
-### Player 2 (Knight 2):
+### Player 2:
 
 - `ArrowUp`: Jump
 - `ArrowLeft`: Move Left
